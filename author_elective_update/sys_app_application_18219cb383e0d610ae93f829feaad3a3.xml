@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application">
+    <sys_app_application action="DELETE">
+        <active>true</active>
+        <category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category>
+        <description/>
+        <device_type>browser</device_type>
+        <hint/>
+        <name/>
+        <order>100</order>
+        <roles/>
+        <sys_class_name>sys_app_application</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 14:02:53</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>18219cb383e0d610ae93f829feaad3a3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tyrone Ybanez AppFile Lab Exercise</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_application_18219cb383e0d610ae93f829feaad3a3</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 14:02:53</sys_updated_on>
+        <title>Tyrone Ybanez AppFile Lab Exercise</title>
+        <view_name/>
+    </sys_app_application>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>af4a3cd9db1a715cebdd2a5913961981</instance_id>
+        <instance_name>dev202164</instance_name>
+        <name>sys_app_application_18219cb383e0d610ae93f829feaad3a3</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_app_application"><sys_app_application action="INSERT_OR_UPDATE"><active>true</active><category display_value="Custom Applications">e0355b31ef303000a61d5a3615c0fb78</category><description/><device_type>browser</device_type><hint/><name/><order>100</order><roles/><sys_class_name>sys_app_application</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-16 14:02:53</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>18219cb383e0d610ae93f829feaad3a3</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Tyrone Ybanez AppFile Lab Exercise</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_application_18219cb383e0d610ae93f829feaad3a3</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-16 14:02:53</sys_updated_on><title>Tyrone Ybanez AppFile Lab Exercise</title><view_name/></sys_app_application></record_update>]]></payload>
+        <payload_hash>-774690491</payload_hash>
+        <record_name>Tyrone Ybanez AppFile Lab Exercise</record_name>
+        <reverted_from/>
+        <source>471b17b183e4da10ae93f829feaad3d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 14:02:53</sys_created_on>
+        <sys_id>814114b383e0d610ae93f829feaad31f</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>191fb24ba3b0000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 14:02:53</sys_updated_on>
+        <type>Application Menu</type>
+        <update_guid>854114b3cfe0d61009bf8e14cff1591e</update_guid>
+        <update_guid_history>854114b3cfe0d61009bf8e14cff1591e:-774690491</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Tyrone Ybanez AppFile Lab Exercise">d1369cb783e0d610ae93f829feaad3a9</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-16 14:24:29</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_application">sys_app_application</sys_db_object>
+        <sys_id>0071ce5b949545a493b6b8f92c5ea711</sys_id>
+        <sys_metadata>18219cb383e0d610ae93f829feaad3a3</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Tyrone Ybanez AppFile Lab Exercise</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_application_18219cb383e0d610ae93f829feaad3a3</sys_update_name>
+        <sys_update_version display_value="sys_app_application_18219cb383e0d610ae93f829feaad3a3">814114b383e0d610ae93f829feaad31f</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-16 14:24:29</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
