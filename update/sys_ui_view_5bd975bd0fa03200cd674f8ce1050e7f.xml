@@ -7,10 +7,6 @@
         <sys_class_name>sys_ui_view</sys_class_name>
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2017-01-26 21:55:52</sys_created_on>
-<<<<<<< HEAD
-        <sys_customer_update>false</sys_customer_update>
-=======
->>>>>>> 5fe4b253c5722f8cd6f9c57fcad9a16c752a5560
         <sys_id>5bd975bd0fa03200cd674f8ce1050e7f</sys_id>
         <sys_mod_count>0</sys_mod_count>
         <sys_name>User</sys_name>
