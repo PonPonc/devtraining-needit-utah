@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="DELETE">
+        <active>true</active>
+        <application display_value="Needit Tasks">b20e7c6a83341210ae93f829feaad3d3</application>
+        <filter/>
+        <name>Needit Tasks</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_58872_needit.needit_tasks_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 06:21:48</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>ba0e7c6a83341210ae93f829feaad3d7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_ui_module_ba0e7c6a83341210ae93f829feaad3d7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 06:21:48</sys_updated_on>
+        <table>x_58872_needit_needit_tasks</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>af4a3cd9db1a715cebdd2a5913961981</instance_id>
+        <instance_name>dev202164</instance_name>
+        <name>sys_ui_module_ba0e7c6a83341210ae93f829feaad3d7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module"><sys_ui_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="Needit Tasks">b20e7c6a83341210ae93f829feaad3d3</application><filter/><name>Needit Tasks</name><order/><path/><path_relative_to_root>false</path_relative_to_root><roles>x_58872_needit.needit_tasks_user</roles><sys_class_name>sys_ui_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-09-25 06:21:48</sys_created_on><sys_domain>global</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>ba0e7c6a83341210ae93f829feaad3d7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Needit Tasks</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_ui_module_ba0e7c6a83341210ae93f829feaad3d7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-09-25 06:21:48</sys_updated_on><table>x_58872_needit_needit_tasks</table><uncancelable>false</uncancelable><view_name/></sys_ui_module></record_update>]]></payload>
+        <payload_hash>1915895341</payload_hash>
+        <record_name>Needit Tasks</record_name>
+        <reverted_from/>
+        <source>471b17b183e4da10ae93f829feaad3d6</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 06:21:49</sys_created_on>
+        <sys_id>fe0e7c6a83341210ae93f829feaad3f3</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19227d7d4a10000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 06:21:49</sys_updated_on>
+        <type>Module</type>
+        <update_guid>360e7c6aab341210bff990364bb7b9da</update_guid>
+        <update_guid_history>360e7c6aab341210bff990364bb7b9da:1915895341</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete/>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-09-25 06:22:53</sys_created_on>
+        <sys_db_object display_value="" name="sys_ui_module">sys_ui_module</sys_db_object>
+        <sys_id>2482fec1580f4b208a1e1aa4a4b481e4</sys_id>
+        <sys_metadata>ba0e7c6a83341210ae93f829feaad3d7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Needit Tasks</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_ui_module_ba0e7c6a83341210ae93f829feaad3d7</sys_update_name>
+        <sys_update_version display_value="sys_ui_module_ba0e7c6a83341210ae93f829feaad3d7">fe0e7c6a83341210ae93f829feaad3f3</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-09-25 06:22:53</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
